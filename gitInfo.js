@@ -52,7 +52,7 @@ let gitStatusDefinition="displays the state of the working directory and the sta
 /*
     Create a variable called 'gitAddDefinition'.  
     It should be a string containing your best definition of what 'git add' does.
-
+let gitAddDefinition="adds a change in the working directory to the staging area."
     Create another variable called 'gitAddCode'.  
     It should be a string containing the code to add all files.
 */
